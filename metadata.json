@@ -1,0 +1,5 @@
+{
+  "name": "Kali Linux Desktop Simulator",
+  "description": "An interactive, educational simulator of the Kali Linux desktop environment. It uses the Gemini API to generate realistic but simulated outputs from famous network security tools, providing a safe way for users to learn the basics of wireless network security testing workflows without any technical barriers.",
+  "requestFramePermissions": []
+}
